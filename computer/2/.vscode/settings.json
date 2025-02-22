@@ -1,0 +1,12 @@
+{
+    "Lua.diagnostics.globals": [
+        "turtle",
+        "sleep",
+        "y",
+        "vector",
+        "peripheral",
+        "rednet",
+        "textutils",
+        "fs"
+    ]
+}
